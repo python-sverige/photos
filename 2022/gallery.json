@@ -1,0 +1,14 @@
+{
+    "images_data_file": "./images_data.json",
+    "public_path": ".",
+    "templates_path": "./templates",
+    "images_path": "./images/photos",
+    "thumbnails_path": "./images/thumbnails",
+    "thumbnail_height": 160,
+    "title": "PyCon Sweden 2022",
+    "description": "Conference photos",
+    "background_photo": "IMG_9946.jpg",
+    "url": "https://www.pycon.se/photos/",
+    "background_photo_offset": 30,
+    "disable_captions": false
+}
